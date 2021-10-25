@@ -8,9 +8,8 @@
 ## Instalação da Disciplina
 
 ### Materiais
-- [Plano de Ensino](documentos/plano_ensino_remoto_gerencia_2021_1_assinado.pdf)
-- 
-- [Slides aula 01](documentos/aula1_UnidadeI_Qualidade_sw_parteI.pdf)
+- [Plano de Ensino](plano_ensino_remoto_gerencia_2021_1_assinado.pdf)
+- [Slides aula 01](aula1_UnidadeI_Qualidade_sw_parteI.pdf)
 
 ### Videos
 🥇 [Aulas no Youtube]
