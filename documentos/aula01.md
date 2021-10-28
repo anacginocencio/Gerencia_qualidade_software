@@ -14,6 +14,10 @@
 ### Videos
 🥇 [Aulas no Youtube]
 
+####  Atividade frequência para quem não participou da aula síncrona - Prazo 03/11/2021
+
+- [Atividade](https://forms.gle/t19CY74Aw3mmy1Aa9)
+
 
 ### Desenvolvimento aula 01: 
 
