@@ -11,8 +11,8 @@
 - [Plano de Ensino](plano_ensino_remoto_gerencia_2021_1_assinado.pdf)
 - [Slides aula 01](aula1_UnidadeI_Qualidade_sw_parteI.pdf)
 
-### Videos
-🥇 [Aulas no Youtube]
+### Videos aulas gerência e qualidade de software -  Qualidade de Software - Parte I
+[![Aula - Qualidade de Software PARTE I](capa_aula1.png)](https://www.youtube.com/watch?v=WvBiQnRSKbw)
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 03/11/2021
 
