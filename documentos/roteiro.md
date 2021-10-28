@@ -1,2 +1,20 @@
 ### Aulas
-- [Roteiro 27/10/2021](aula01.md)
+- [Aula 00 - 20/10/2021 - CONEPE]
+- [Roteiro Aula01 - 27/10/2021](aula01.md)
+- [Roteiro Aula02 - 03/11/2021]
+- [Roteiro Aula03 - 10/11/2021]
+- [Roteiro Aula04 - 17/11/2021]
+- [Roteiro Aula05 - 24/11/2021]
+- [Roteiro Aula06 - 23/11/2021]
+- [Roteiro Aula07 - 01/12/2021]
+- [Roteiro Aula08 - 08/12/2021]
+- [Roteiro Aula09 - 15/12/2021 - AVALIAÇÃO]
+- [RECESSO ACADÊMICO - 22/12/2021 a 12/01/2022]
+- [Roteiro Aula10 - 19/01/2022]
+- [Roteiro Aula11 - 19/01/2022]
+- [Roteiro Aula12 - 19/01/2022 - ENTREGA NOTAS]
+- [Roteiro Aula13 - 26/01/2022]
+- [Roteiro Aula14 - 02/02/2022]
+- [Roteiro Aula15 - 09/02/2022]
+- [Roteiro Aula16 - 16/02/2022 - AVALIAÇÃO]
+- [Roteiro Aula17 - 18/02/2022 - ENTREGA MÉDIA FINAL]
