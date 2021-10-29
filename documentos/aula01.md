@@ -17,7 +17,7 @@
 
 ####  O vídeo abaixo mostra como a falta de gerência de qualidade provoca problemas no desenvolvimento de sw
 
-[![material complementar aula01](empreendedor.png)](https://www.youtube.com/watch?v=kpjwWSojRic)
+[![material complementar aula01](fazsite.png)](https://www.youtube.com/watch?v=kF8sxDDoRns)
 
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 03/11/2021
