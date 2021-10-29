@@ -15,6 +15,11 @@
 ### Videos aulas gerência e qualidade de software -  Qualidade de Software - Parte I
 [![Aula - Qualidade de Software PARTE I](capa_aula1.png)](https://www.youtube.com/watch?v=WvBiQnRSKbw)
 
+####  O vídeo abaixo mostra como a falta de gerência de qualidade provoca problemas no desenvolvimento de sw
+
+[![material complementar aula01](empreendedor.png)](https://www.youtube.com/watch?v=kpjwWSojRic)
+
+
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 03/11/2021
 
 - [Atividade](https://forms.gle/t19CY74Aw3mmy1Aa9)
