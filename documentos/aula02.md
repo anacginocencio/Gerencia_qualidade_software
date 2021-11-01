@@ -3,7 +3,7 @@
  
 >  *  Conceitos sobre qualidade de software / Visões de Qualidade / Diferença entre Controle de Qualidade e Garantia de Qualidade
 
-## Atividades da aula - Plano de ensino, principais conceitos e histórico sobre qualidade
+## Atividades da aula - Conceitos Qualidade / Gastos com falta de qualidade / Garantia x controle de qualidade / ClassCraft
 
 ## Instalação da Disciplina
 
@@ -14,7 +14,7 @@
 ### Videos aulas gerência e qualidade de software -  Qualidade de Software - Parte I
 [![Aula - Qualidade de Software PARTE II](capa_aula2.png)](https://www.youtube.com/watch?v=JVZOHZocdqo)
 
-####  O vídeo abaixo mostra como uma falha numérica pode causar desastres
+####  O vídeo abaixo mostra como uma falhas numéricas podem causar desastres
 
 [![material complementar aula02](ariane5.png)](https://youtu.be/PK_yguLapgA)
 
