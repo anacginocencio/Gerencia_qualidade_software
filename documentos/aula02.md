@@ -12,11 +12,11 @@
 - [Slides aula 01](aula2_UnidadeI_Qualidade_sw_parteII.pdf)
 
 ### Videos aulas gerência e qualidade de software -  Qualidade de Software - Parte I
-[![Aula - Qualidade de Software PARTE II](capa_aula1.png)](https://www.youtube.com/watch?v=WvBiQnRSKbw)
+[![Aula - Qualidade de Software PARTE II](capa_aula2.png)](https://www.youtube.com/watch?v=JVZOHZocdqo)
 
-####  O vídeo abaixo mostra como a falta de gerência de qualidade pode provocar problemas no desenvolvimento de sw
+####  O vídeo abaixo mostra como uma falha numérica pode causar desastres
 
-[![material complementar aula01](fazsite1.png)](https://www.youtube.com/watch?v=kF8sxDDoRns)
+[![material complementar aula02](fazsite1.png)](https://www.youtube.com/watch?v=kF8sxDDoRns)
 
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 03/11/2021
