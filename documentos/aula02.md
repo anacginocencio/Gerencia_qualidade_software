@@ -1,19 +1,18 @@
 # Aula 02 - Gerência e Qualidade de Software
 ## Tema aula - Unidade I - Qualidade de Software - Parte II
  
->  * Apresentação da Disciplina e plano de ensino / Principais Conceitos sobre qualidade de software
+>  *  Conceitos sobre qualidade de software / Visões de Qualidade / Diferença entre Controle de Qualidade e Garantia de Qualidade
 
 ## Atividades da aula - Plano de ensino, principais conceitos e histórico sobre qualidade
 
 ## Instalação da Disciplina
 
 ### Materiais
-- [Plano de Ensino](plano_ensino_remoto_gerencia_2021_1_assinado.pdf)
-- [Slides aula 01](aula1_UnidadeI_Qualidade_sw_parteI.pdf)
-- [Mercado Brasileiro de Software](mercado_brasileiro_sw_2021.pdf)
+
+- [Slides aula 01](aula2_UnidadeI_Qualidade_sw_parteII.pdf)
 
 ### Videos aulas gerência e qualidade de software -  Qualidade de Software - Parte I
-[![Aula - Qualidade de Software PARTE I](capa_aula1.png)](https://www.youtube.com/watch?v=WvBiQnRSKbw)
+[![Aula - Qualidade de Software PARTE II](capa_aula1.png)](https://www.youtube.com/watch?v=WvBiQnRSKbw)
 
 ####  O vídeo abaixo mostra como a falta de gerência de qualidade pode provocar problemas no desenvolvimento de sw
 
