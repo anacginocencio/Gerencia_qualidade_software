@@ -16,18 +16,17 @@
 
 ####  O vídeo abaixo mostra como uma falha numérica pode causar desastres
 
-[![material complementar aula02](fazsite1.png)](https://www.youtube.com/watch?v=kF8sxDDoRns)
+[![material complementar aula02](ariane5.png)](https://youtu.be/PK_yguLapgA)
 
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 03/11/2021
 
-- [Atividade](https://forms.gle/t19CY74Aw3mmy1Aa9)
+- [Atividade]()
 
 
 ### Desenvolvimento aula 01: 
 
-- [ ]  Apresentação Plano de ensino
-- [ ]  Conceitos iniciais sobre qualidade
-- [ ]  Histórico e necessidade de estudar qualidade de software
-- [ ]  Panorama do mercado de desenvolvimento de software (2020)
-- [ ]  Realidade dos projetos de software
+- [ ]  Apresentação conceitos Qualidade - Parte 2
+- [ ]  Discussão sobre problemas e gastos em bilhões
+- [ ]  Diferença entre controle de qualidade e garantia de qualidade
+- [ ]  Explicação ClassCraft
