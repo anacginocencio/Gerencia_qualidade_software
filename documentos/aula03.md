@@ -20,11 +20,6 @@
 
 - [Atividade]()
 
-####  Atividade extra - Valendo pontuação N1 - Prazo 16/11/2021
-
-- [Atividade](https://forms.gle/GmDYhQtLE9YpNyAD6)
-
-
 
 ### Desenvolvimento aula 01: 
 
