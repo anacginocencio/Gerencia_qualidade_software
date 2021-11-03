@@ -14,3 +14,5 @@
 ####  Atividade extra - Valendo pontuação N1 - Prazo 16/11/2021
 
 - [Atividade 1](https://forms.gle/GmDYhQtLE9YpNyAD6)
+- [15/12/2021 - PRIMEIRA AVALIAÇÃO]
+- [16/02/2022 - SEGUNDA AVALIAÇÃO]
