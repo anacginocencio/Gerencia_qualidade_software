@@ -11,8 +11,11 @@
 
 ##  INFORMAÇÕES AVALIAÇÕES
 
-####  Atividade extra - Valendo pontuação N1 - Prazo 16/11/2021
+####  Atividade extra - Valendo pontuação N1 
 
-- [Atividade 1](https://forms.gle/GmDYhQtLE9YpNyAD6)
-- [15/12/2021 - PRIMEIRA AVALIAÇÃO]
-- [16/02/2022 - SEGUNDA AVALIAÇÃO]
+- [Atividade 1- Prazo 16/11/2021](https://forms.gle/GmDYhQtLE9YpNyAD6)
+
+####  CRONOGRAMA AVALIAÇÕES VIRTUAIS
+
+- [15/12/2021 - PRIMEIRA AVALIAÇÃO - CONTEÚDO UNIDADE I]
+- [16/02/2022 - SEGUNDA AVALIAÇÃO - CONTEÚDO UNIDADE II]
