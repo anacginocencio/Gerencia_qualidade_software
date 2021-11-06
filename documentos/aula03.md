@@ -11,7 +11,7 @@
 
 - [Slides aula 03](aula3_UnidadeI_Qualidade_sw_parteIII.pdf)
 
-### Videos aulas gerência e qualidade de software -  Qualidade de Software - Parte I
+### Video aula gerência e qualidade de software -  Qualidade de Software - Parte I
 [![Aula - Qualidade de Software PARTE III](capa_aula3.png)](https://www.youtube.com/watch?v=NXGIDkKnle0)
 
 
