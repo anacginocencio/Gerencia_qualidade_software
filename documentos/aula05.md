@@ -12,7 +12,7 @@
 - [Slides aula 05](aula5_UnidadeI_Tecnicas_de_revisao_parteII.pdf)
 
 ### Video aula gerência e qualidade de software -  Qualidade de Software - Parte III
-[![Aula - Técnicas de Revisão PARTE I](capa_aula5.png)]()
+[![Aula - Técnicas de Revisão PARTE I](capa_aula5.png)](https://www.youtube.com/watch?v=xcxWOu9Qgo8)
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 30/11/2021
 
