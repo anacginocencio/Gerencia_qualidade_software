@@ -14,7 +14,7 @@
 ### Video aula gerência e qualidade de software -  Qualidade de Software - Parte III
 [![Aula - Técnicas de Revisão PARTE I](capa_aula4.png)]()
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 16/11/2021
+####  Atividade frequência para quem não participou da aula síncrona - Prazo 23/11/2021
 
 - [Atividade]()
 
