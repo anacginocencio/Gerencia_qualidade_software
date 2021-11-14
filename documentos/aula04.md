@@ -3,7 +3,7 @@
  
 >  *  Impacto de defeitos de software nos custos, amplificação e eliminação de defeitos, métricas de revisão e seu emprego
 
-## Atividades da aula - Discutir sobre a importância das técnicas de revisão como um filtro para eliminação de defeitos/ Exemplo de amplificação de defeitos sem o emprego de revisão e com o emprego de revisão, apresentar as métricas de revisão Ep (esforço de preparação), Ea (Esforco de Avaliação) , Re (Reformulação de Esforço) e também TAS (Tamanho do Artefato de Software),  Errsec(Erros secundários) e Errgraves (Erros graves) / Aplicação Projeto Conexão do Saber
+## Atividades da aula - Discutir sobre a importância das técnicas de revisão como um filtro para eliminação de defeitos
 
 ## Instalação da Disciplina
 
