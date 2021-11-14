@@ -3,7 +3,7 @@
 - [Roteiro Aula01 - 27/10/2021](aula01.md)
 - [Roteiro Aula02 - 03/11/2021](aula02.md)
 - [Roteiro Aula03 - 10/11/2021](aula03.md)
-- [Roteiro Aula04 - 17/11/2021]
+- [Roteiro Aula04 - 17/11/2021](aula04.md)
 - [Roteiro Aula05 - 24/11/2021]
 - [Roteiro Aula06 - 23/11/2021]
 - [Roteiro Aula07 - 01/12/2021]
