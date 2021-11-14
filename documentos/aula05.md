@@ -25,4 +25,4 @@
 - [ ]  Apresentar os indivíduos envolvidos em um processo de revisão formal
 - [ ]  Apresentar diretrizes de uma revisão formal
 - [ ]  Questão a ser desenvolvida como parte da N1
-- [ ]  Kahoot de técnicas de revisão
+- [ ]  Kahoot de técnicas de revisão (VERIFICAR MUNDO GESTÃO DE QUALIDADE)
