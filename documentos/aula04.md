@@ -16,7 +16,7 @@
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 23/11/2021
 
-- [Atividade]()
+- [Atividade](https://forms.gle/iibm19xR9SnBKekJA)
 
 ### Desenvolvimento aula 01: 
 
