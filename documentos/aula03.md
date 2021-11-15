@@ -14,7 +14,8 @@
 ### Video aula gerência e qualidade de software -  Qualidade de Software - Parte III
 [![Aula - Qualidade de Software PARTE III](capa_aula3.png)](https://www.youtube.com/watch?v=NXGIDkKnle0)
 
-
+### Palestra Luciana Aparecida Ferreira - A importância da Gestão de Qualidade 
+[![Palestra Luciana](capa_palestra.png)](https://www.youtube.com/watch?v=iJLeIcGls9E)
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 16/11/2021
 
