@@ -25,4 +25,4 @@
 - [ ]  Apresentar os indivíduos envolvidos em um processo de revisão formal
 - [ ]  Apresentar diretrizes de uma revisão formal
 - [ ]  Questão a ser desenvolvida como parte da N1
-- [ ]  Kahoot de técnicas de revisão (VERIFICAR MUNDO GESTÃO DE QUALIDADE)
+- [ ]  Kahoot Técnicas de Revisão completo valendo + 20XP para cada questão correta / -10XP para cada questão incorreta, Primeiro lugar + 300 XP, Segundo lugar +200 XP, Terceiro lugar +100 XP
