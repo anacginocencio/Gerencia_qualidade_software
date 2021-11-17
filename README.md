@@ -20,3 +20,11 @@
 
 - [15/12/2021 - PRIMEIRA AVALIAÇÃO - CONTEÚDO UNIDADE I]
 - [16/02/2022 - SEGUNDA AVALIAÇÃO - CONTEÚDO UNIDADE II]
+
+##  INFORMAÇÕES GAMIFICAÇÃO
+- [MISSÃO KAHOOT QUALIDADE - ATÉ 20/11/2021 - PIN 01454989]( https://kahoot.it/challenge/01454989?challenge-id=dd701e52-7000-49c6-a9d2-33d726c8c00f_1637183702523)
+* + 10XP para cada questão correta
+* Primeiro lugar + 300 XP
+* Segundo lugar +200 XP
+* Terceiro lugar +100 XP
+* Será off com link até o dia 20/11/2021
