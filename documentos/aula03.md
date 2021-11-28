@@ -22,7 +22,7 @@
 - [Atividade](https://forms.gle/PHpfLvbrn6AwywzM8)
 
 
-### Desenvolvimento aula 01: 
+### Desenvolvimento aula 03: 
 
 - [ ]  Apresentação das dimensões de Qualidade (Correção, Confiabilidade, Eficiência, Integridade, Usabilidade, Facilidade de Manutenção, Flexibilidade, Testabilidade, Portabilidade, Reusabilidade, Interoperabilidade
 - [ ]  Qualidade do Processo x Qualidade do produto (discussão sobre a importância da qualidade do processo para obtenção de um produto de qualidade)
