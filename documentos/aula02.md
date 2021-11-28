@@ -24,7 +24,7 @@
 - [Atividade](https://forms.gle/RuV7yCEH438FeK9Y6)
 
 
-### Desenvolvimento aula 01: 
+### Desenvolvimento aula 02: 
 
 - [ ]  Apresentação conceitos Qualidade - Parte 2
 - [ ]  Discussão sobre problemas e gastos em bilhões
