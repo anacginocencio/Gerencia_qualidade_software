@@ -18,7 +18,7 @@
 
 - [Atividade](https://forms.gle/iibm19xR9SnBKekJA)
 
-### Desenvolvimento aula 01: 
+### Desenvolvimento aula 04: 
 
 - [ ]  Discutir sobre a importância das técnicas de revisão como um filtro para eliminação de defeitos
 - [ ]  Apresentar o Exemplo de amplificação de defeitos sem o emprego de revisão e com o emprego de revisão
