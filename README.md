@@ -7,7 +7,7 @@
 - [Link WhatsApp Disciplina:] https://chat.whatsapp.com/CM89lmTv9SN0D9KCIQa5cb
 - [Link ClassCraft:] https://accounts.classcraft.com/login
 - [Plano de Ensino e Cronograma](documentos/plano_ensino_remoto_gerencia_2021_1_assinado.pdf)
-- [Roteiro de aulas com cronograma](documentos/roteiro.md)
+- [Roteiro de aulas e materiais](documentos/roteiro.md)
 
 ##  INFORMAÇÕES AVALIAÇÕES
 
