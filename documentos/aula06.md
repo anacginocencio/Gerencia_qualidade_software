@@ -27,4 +27,5 @@ Administração da segurança; Proteção; Administração de riscos
 software para verificar sua conformidade com a gestão de qualidade definida; Auditar produtos de software; Garantir que os desvios sejam documentados e tratados;
 Registrar qualquer não aderência e relatar ao gerenciamento superior.
 - [ ]  Técnica POMODORO para melhor gerência de tempo.
-- [ ]  Kahoot Garantia de Qualidade de Software - Parte 1 valendo + 30XP para cada questão correta / -5XP para cada questão incorreta, Primeiro lugar + 500 XP, Segundo lugar +300 XP, Terceiro lugar +200 XP
+- [ ]  Kahoot Garantia de Qualidade de Software - Parte 1 valendo + 30XP para cada questão correta / -5XP para cada questão incorreta, Primeiro lugar + 500 XP, Segundo lugar +300 XP, Terceiro lugar +200 XP. Assíncrono no seguinte link:
+- [Link kahoot assíncrono](https://kahoot.it/challenge/05943420?challenge-id=dd701e52-7000-49c6-a9d2-33d726c8c00f_1638404592405)
