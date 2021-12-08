@@ -3,8 +3,7 @@
  
 >  *  Metas e métricas de SQA, Estatísticas da garantia da qualidade de software, confiabilidade de software e plano de SQA
 
-## Atividades da aula - Apresentar as principais metas e métricas para SQA, o princípio de pareto aplicado a 
-## garantia de qualidade de software, seis sigma para engenharia de software.
+## Atividades da aula - Apresentar as principais metas e métricas para SQA, o princípio de pareto aplicado a garantia de qualidade de software, seis sigma para engenharia de software.
 
 ## Instalação da Disciplina
 
