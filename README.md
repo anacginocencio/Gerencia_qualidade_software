@@ -20,13 +20,14 @@
 ####  CRONOGRAMA AVALIAÇÕES VIRTUAIS
 
 - [**15/12/2021 - PRIMEIRA AVALIAÇÃO - CONTEÚDO UNIDADE I**]
-* FORMATO: AVALIAÇÃO VIRTUAL SÍNCRONA
-* DATA: 15/12/2021
-* HORÁRIO: 17h10 ÀS 18h50
-* CONTEÚDO: Unidade I\n<  >1. Qualidade de Software, 
-2. Técnicas de Revisão, 
-3. Garantia de Qualidade de Software
-* OBSERVAÇÃO: Esta avaliação vale 90% da N1
+* **FORMATO:** AVALIAÇÃO VIRTUAL SÍNCRONA
+* **DATA:** 15/12/2021
+* **HORÁRIO:** 17h10 ÀS 18h50
+* **CONTEÚDO:** Unidade I
+*1. Qualidade de Software, 
+*2. Técnicas de Revisão, 
+*3. Garantia de Qualidade de Software
+* **OBSERVAÇÃO:** Esta avaliação vale 90% da N1
 
 
 - [16/02/2022 - SEGUNDA AVALIAÇÃO - CONTEÚDO UNIDADE II]
