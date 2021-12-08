@@ -20,15 +20,13 @@
 ####  CRONOGRAMA AVALIAÇÕES VIRTUAIS
 
 - [15/12/2021 - PRIMEIRA AVALIAÇÃO - CONTEÚDO UNIDADE I]
-
-- PRIMEIRA AVALIAÇÃO DE GERÊNCIA E QUALIDADE DE SOFTWARE
-FORMATO: AVALIAÇÃO VIRTUAL SÍNCRONA
+- FORMATO: AVALIAÇÃO VIRTUAL SÍNCRONA
 - DATA: 15/12/2021
 - HORÁRIO: 17h10 ÀS 18h50
-- CONTEÚDO: 
-- [ ] Unidade 1: Qualidade de Software, 
-- [ ] Unidade 1: Técnicas de Revisão, 
-- [ ] Unidade 1: Garantia de Qualidade de Software
+- CONTEÚDO: Unidade I
+- Qualidade de Software, 
+- Técnicas de Revisão, 
+- Garantia de Qualidade de Software
 - OBSERVAÇÃO: Esta avaliação vale 90% da N1
 
 
