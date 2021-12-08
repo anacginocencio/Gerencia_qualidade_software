@@ -24,9 +24,9 @@
 * **DATA:** 15/12/2021
 * **HORÁRIO:** 17h10 ÀS 18h50
 * **CONTEÚDO:** Unidade I
-*1. Qualidade de Software, 
-*2. Técnicas de Revisão, 
-*3. Garantia de Qualidade de Software
+1. Qualidade de Software, 
+2. Técnicas de Revisão, 
+3. Garantia de Qualidade de Software
 * **OBSERVAÇÃO:** Esta avaliação vale 90% da N1
 
 
