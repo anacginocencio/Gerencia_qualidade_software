@@ -12,11 +12,11 @@
 - [Slides aula 07](aula7_unidadeI_garantia_de_qualidade_de_software_parteII.pdf)
 
 ### Video aula gerência e qualidade de software -  Qualidade de Software - Parte III
-[![Aula - Garantia de Qualidade de Software - PARTE II](capa_aula7.png)]()
+[![Aula - Garantia de Qualidade de Software - PARTE II](capa_aula7.png)](https://youtu.be/4BV5_r-ktTc)
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 15/12/2021
 
-- [Atividade]()
+- [Atividade](https://forms.gle/2yRrw3JZ2ikjXQ8YA)
 
 ### Desenvolvimento aula 07: 
 
