@@ -14,7 +14,7 @@
 ####  Atividade extra - Valendo pontuação N1 
 
 - [~~Atividade 1- Prazo 16/11/2021~~](https://forms.gle/GmDYhQtLE9YpNyAD6)
-- [Atividade 2- Prazo 30/11/2021](https://forms.gle/VmtbFacivmeAu3GMA)
+- [~~Atividade 2- Prazo 30/11/2021~~](https://forms.gle/VmtbFacivmeAu3GMA)
 - [Atividade 3- Prazo 14/12/2021](https://forms.gle/3b8HfrfUmyx4hnkz9)
 
 ####  CRONOGRAMA AVALIAÇÕES VIRTUAIS
