@@ -14,4 +14,4 @@
 
 - [ ]  Liberar link da avaliação às 17h10
 - [ ]  Fechar link da avaliação às 18h50
-- [ ]  Link da avaliação (https://forms.gle/x3zCLkEu53nB25AX7)
+- [ ]  Link da avaliação
