@@ -28,6 +28,7 @@
 2. Técnicas de Revisão, 
 3. Garantia de Qualidade de Software
 * **OBSERVAÇÃO:** Esta avaliação vale 90% da N1
+* Link Avaliação:
 
 
 - [16/02/2022 - SEGUNDA AVALIAÇÃO - CONTEÚDO UNIDADE II]
