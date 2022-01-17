@@ -11,7 +11,7 @@
 
 - [Slides aula 09](aula9_unidadeII_melhoria_processos_parte1.pdf)
 
-### Video aula gerência e qualidade de software -  Qualidade de Software - Parte III
+### Video aula gerência e qualidade de software -  Melhoria de processos - Parte 1
 [![Aula - Melhoria de processos - PARTE 1](capa_aula9.png)](https://youtu.be/P97gMpbVO5w)
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 26/01/2022
