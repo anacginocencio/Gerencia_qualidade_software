@@ -10,7 +10,7 @@
 - [Roteiro Aula08 - 15/12/2021 - AVALIAÇÃO](aula08.md)
 - [RECESSO ACADÊMICO - 22/12/2021 a 12/01/2022]
 ## Unidade II
-- [Roteiro Aula09 - 19/01/2022]
+- [Roteiro Aula09 - 19/01/2022](aula09.md)
 - [Roteiro Aula10 - 19/01/2022 - ASSÍNCRONA]
 - [Roteiro Aula11 - 19/01/2022 - ENTREGA NOTAS]
 - [Roteiro Aula12 - 26/01/2022]
