@@ -17,6 +17,10 @@
 - [~~Atividade 2- Prazo 30/11/2021~~](https://forms.gle/VmtbFacivmeAu3GMA)
 - [~~Atividade 3- Prazo 14/12/2021~~](https://forms.gle/3b8HfrfUmyx4hnkz9)
 
+####  Atividade extra - Valendo pontuação N2
+
+- [Atividade 4 - Prazo 02/02/2022](https://forms.gle/5LJhVkxunzHPE4PU6)
+
 ####  CRONOGRAMA AVALIAÇÕES VIRTUAIS
 
 - [**15/12/2021 - PRIMEIRA AVALIAÇÃO - CONTEÚDO UNIDADE I**]
