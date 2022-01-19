@@ -30,4 +30,4 @@
 - [ ] Retorno sobre investimento
 - [ ] Tendências de SPI
 - [ ] Frequência aula assíncrona
-- [ ] Questões AVA
+- [ ] Questões AVA - até o dia 02/02/2022 - [Atividade 4 - Prazo 02/02/2022](https://forms.gle/5LJhVkxunzHPE4PU6)
