@@ -14,7 +14,7 @@
 - [Roteiro Aula10 - 19/01/2022 - ASSÍNCRONA](aula10.md)
 - [Roteiro Aula11 - 19/01/2022 - ENTREGA NOTAS](aula11.md)
 - [Roteiro Aula12 - 26/01/2022 - ASSÍNCRONA](aula12.md)
-- [Roteiro Aula13 - 02/02/2022]
+- [Roteiro Aula13 - 02/02/2022](aula13.md)
 - [Roteiro Aula14 - 09/02/2022]
 - [Roteiro Aula15 - 16/02/2022 - AVALIAÇÃO]
 - [Roteiro Aula16 - 18/02/2022 - ENTREGA MÉDIA FINAL]
