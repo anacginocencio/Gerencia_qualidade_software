@@ -11,7 +11,7 @@
 - [Slides aula 14](aula14_unidadeII_mpsbr.pdf)
 
 ### Video aula gerência e qualidade de software -  MPS.BR
-[![Aula - MPS BR](capa_aula14.png)]()
+[![Aula - MPS BR](capa_aula14.png)](https://youtu.be/8Pekd7bPsi8)
 
 ####  Atividade frequência para esta aula - Prazo 16/02/2022
 
