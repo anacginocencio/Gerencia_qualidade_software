@@ -35,5 +35,13 @@
 * **OBSERVAÇÃO:** Esta avaliação vale 90% da N1
 * Link Avaliação:
 
-
-- [16/02/2022 - SEGUNDA AVALIAÇÃO - CONTEÚDO UNIDADE II]
+- [**16/02/2022 - SEGUNDA AVALIAÇÃO - CONTEÚDO UNIDADE II**]
+* **FORMATO:** AVALIAÇÃO VIRTUAL SÍNCRONA
+* **DATA:** 16/02/2022
+* **HORÁRIO:** 17h10 ÀS 18h50
+* **CONTEÚDO:** Unidade II
+1. Melhoria de processos de Software, 
+2. CMM e CMMI, 
+3. MPS.BR
+* **OBSERVAÇÃO:** Esta avaliação vale 90% da N1
+* Link Avaliação:
