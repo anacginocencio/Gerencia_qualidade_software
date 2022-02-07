@@ -19,8 +19,8 @@
 
 ####  Atividade extra - Valendo pontuação N2
 
-- [Atividade 4 - Prazo 15/02/2022](https://forms.gle/5LJhVkxunzHPE4PU6)
-- [Atividade 5 - Prazo 15/02/2022](https://forms.gle/LqXxWu26k2isvZ4J6)
+- [Atividade 4 - Prazo 15/02/2022](https://forms.gle/P8geTJWdsqjRHVRi9)
+- [Atividade 5 - Prazo 15/02/2022](https://forms.gle/2kmZG8PNYMdQ1G3B6)
 
 ####  CRONOGRAMA AVALIAÇÕES VIRTUAIS
 
