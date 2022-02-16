@@ -19,7 +19,7 @@
 
 ####  Atividade extra - Valendo pontuação N2
 
-- [Atividade 4 - Prazo final 17/02/2022 às 8h] (https://docs.google.com/forms/d/e/1FAIpQLScJPslMfIoVVgXE2G3RCA5TpmX2GemIKHQuouqwla4m8KZDJw/viewform?usp=sf_link)
+- [Atividade 4 - Prazo final 17/02/2022 às 8h](https://docs.google.com/forms/d/e/1FAIpQLScJPslMfIoVVgXE2G3RCA5TpmX2GemIKHQuouqwla4m8KZDJw/viewform?usp=sf_link)
 - [Atividade 5 - Prazo final 17/02/2022 às 8h](https://docs.google.com/forms/d/e/1FAIpQLSdxRBmky6OzdVgnM4pzz72YDEnuSMUqz6UEDwP1qfg_tQji1g/viewform?usp=sf_link)
 
 ####  CRONOGRAMA AVALIAÇÕES VIRTUAIS
