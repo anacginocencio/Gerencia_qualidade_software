@@ -1,20 +1,21 @@
 ## Unidade I
-- [Aula 00 - 20/10/2021 - CONEPE]
-- [Roteiro Aula01 - 27/10/2021](aula01.md)
-- [Roteiro Aula02 - 03/11/2021](aula02.md)
-- [Roteiro Aula03 - 10/11/2021](aula03.md)
-- [Roteiro Aula04 - 17/11/2021](aula04.md)
-- [Roteiro Aula05 - 24/11/2021](aula05.md)
-- [Roteiro Aula06 - 01/12/2021](aula06.md)
-- [Roteiro Aula07 - 08/12/2021](aula07.md)
-- [Roteiro Aula08 - 15/12/2021 - AVALIAÇÃO](aula08.md)
-- [RECESSO ACADÊMICO - 22/12/2021 a 12/01/2022]
+- [Roteiro Aula01 - 09/08/2022](aula01.md)
+- [Roteiro Aula02 - 16/08/2022](aula02.md)
+- [Roteiro Aula03 - 23/08/2022](aula03.md)
+- [Roteiro Aula04 - 30/08/2022](aula04.md)
+- [Roteiro Aula05 - 06/09/2022](aula05.md)
+- [Roteiro Aula06 - 13/09/2022](aula06.md)
+- [Roteiro Aula07 - 20/09/2022](aula07.md)
+- [Roteiro Aula08 - 27/08/2022 - AVALIAÇÃO](aula08.md)
+- [07/10/2022 - ENTREGA MÉDIA N1]
 ## Unidade II
-- [Roteiro Aula09 - 19/01/2022](aula09.md)
-- [Roteiro Aula10 - 19/01/2022 - ASSÍNCRONA](aula10.md)
-- [Roteiro Aula11 - 19/01/2022 - ENTREGA NOTAS](aula11.md)
-- [Roteiro Aula12 - 26/01/2022 - ASSÍNCRONA](aula12.md)
-- [Roteiro Aula13 - 02/02/2022](aula13.md)
-- [Roteiro Aula14 - 09/02/2022](aula14.md)
-- [Roteiro Aula15 - 16/02/2022 - AVALIAÇÃO]
-- [Roteiro Aula16 - 18/02/2022 - ENTREGA MÉDIA FINAL]
+- [Roteiro Aula09 - 04/10/2022](aula09.md)
+- [Roteiro Aula10 - 11/10/2022](aula10.md)
+- [Roteiro Aula11 - 18/10/2022 - CONEPE](aula11.md)
+- [Roteiro Aula12 - 25/10/2022](aula12.md)
+- [Roteiro Aula13 - 01/11/2022](aula13.md)
+- [Roteiro Aula14 - 08/11/2022](aula14.md)
+- [FERIADO 15/11/2022 - PROCLAMAÇÃO DA REPÚBLICA]
+- [Roteiro Aula15 - 22/11/2022](aula14.md)
+- [Roteiro Aula16 - 29/11/2022 - AVALIAÇÃO]
+- [02/12/2022 - ENTREGA MÉDIA FINAL]
