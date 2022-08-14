@@ -19,10 +19,6 @@
 [![material complementar aula02](ariane5.png)](https://youtu.be/PK_yguLapgA)
 
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 10/11/2021
-
-- [Atividade](https://forms.gle/RuV7yCEH438FeK9Y6)
-
 
 ### Desenvolvimento aula 02: 
 
