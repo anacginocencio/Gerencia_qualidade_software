@@ -25,4 +25,5 @@
 - [ ]  Apresentação conceitos Qualidade - Parte 2
 - [ ]  Discussão sobre problemas e gastos em bilhões
 - [ ]  Diferença entre controle de qualidade e garantia de qualidade
-- [ ]  Explicação ClassCraft / Completar cadastro alunos
+- [ ]  Definição Qualidade de Software segundo PRESSMAN com detalhes.
+- [ ]  ClassCraft e primeira Missão
