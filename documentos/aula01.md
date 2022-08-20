@@ -1,4 +1,4 @@
-# Aula 01 - Gerência e Qualidade de Software
+# Gerência e Qualidade de Software
 ## Tema aula - Unidade I - Qualidade de Software - Parte I
  
 >  * Apresentação da Disciplina e plano de ensino / Principais Conceitos sobre qualidade de software
