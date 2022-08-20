@@ -1,4 +1,4 @@
-# Aula 03 - Gerência e Qualidade de Software
+# Gerência e Qualidade de Software
 ## Tema aula - Unidade I - Qualidade de Software - Parte III
  
 >  *  Dimensões de Qualidade / Qualidade do Produto x Qualidade do Processo / O Dilema da Qualidade de Software / Custos de Prevenção, Avaliação e Falhas / Questões extras - para N1
@@ -23,4 +23,4 @@
 - [ ]  Apresentação das dimensões de Qualidade (Correção, Confiabilidade, Eficiência, Integridade, Usabilidade, Facilidade de Manutenção, Flexibilidade, Testabilidade, Portabilidade, Reusabilidade, Interoperabilidade
 - [ ]  Qualidade do Processo x Qualidade do produto (discussão sobre a importância da qualidade do processo para obtenção de um produto de qualidade)
 - [ ]  O Dilema da qualidade de software - Software bom o suficente
-- [ ]  Missões no ClassCraft
+- [ ]  Missões ClassCraft - Kahoot Qualidade presencial
