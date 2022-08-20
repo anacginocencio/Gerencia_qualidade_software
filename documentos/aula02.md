@@ -1,4 +1,4 @@
-# Aula 02 - Gerência e Qualidade de Software
+# Gerência e Qualidade de Software
 ## Tema aula - Unidade I - Qualidade de Software - Parte II
  
 >  *  Conceitos sobre qualidade de software / Visões de Qualidade / Diferença entre Controle de Qualidade e Garantia de Qualidade
