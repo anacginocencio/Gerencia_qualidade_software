@@ -23,4 +23,5 @@
 - [ ]  Apresentação das dimensões de Qualidade (Correção, Confiabilidade, Eficiência, Integridade, Usabilidade, Facilidade de Manutenção, Flexibilidade, Testabilidade, Portabilidade, Reusabilidade, Interoperabilidade
 - [ ]  Qualidade do Processo x Qualidade do produto (discussão sobre a importância da qualidade do processo para obtenção de um produto de qualidade)
 - [ ]  O Dilema da qualidade de software - Software bom o suficente
+- [ ]  Questões SIGAA - Valendo 10% N1
 - [ ]  Missões ClassCraft - Kahoot Qualidade presencial
