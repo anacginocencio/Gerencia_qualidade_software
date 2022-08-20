@@ -17,10 +17,6 @@
 ### Palestra Luciana Aparecida Ferreira - A importância da Gestão de Qualidade 
 [![Palestra Luciana](capa_palestra1.png)](https://www.youtube.com/watch?v=iJLeIcGls9E)
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 16/11/2021
-
-- [Atividade](https://forms.gle/PHpfLvbrn6AwywzM8)
-
 
 ### Desenvolvimento aula 03: 
 
