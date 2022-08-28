@@ -11,12 +11,9 @@
 
 - [Slides aula 04](aula4_UnidadeI_Tecnicas_de_revisao_parteI.pdf)
 
-### Video aula gerência e qualidade de software -  Qualidade de Software - Parte III
+### Video aula gerência e qualidade de software -  Técnicas de Revisão - Parte I
 [![Aula - Técnicas de Revisão PARTE I](capa_aula4.png)](https://www.youtube.com/watch?v=ffX0jRr0AVY)
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 23/11/2021
-
-- [Atividade](https://forms.gle/iibm19xR9SnBKekJA)
 
 ### Desenvolvimento aula 04: 
 
