@@ -1,4 +1,4 @@
-# Aula 04 - Gerência e Qualidade de Software
+# Gerência e Qualidade de Software
 ## Tema aula - Unidade I - Técnicas de Revisão - Parte I
  
 >  *  Impacto de defeitos de software nos custos, amplificação e eliminação de defeitos, métricas de revisão e seu emprego
@@ -24,4 +24,3 @@
 - [ ]  Apresentar o Exemplo de amplificação de defeitos sem o emprego de revisão e com o emprego de revisão
 - [ ]  Apresentar as métricas de revisão Ep (esforço de preparação), Ea (Esforco de Avaliação) , Re (Reformulação de Esforço) e também TAS (Tamanho do Artefato de Software),  Errsec(Erros secundários) e Errgraves (Erros graves) 
 - [ ]  Mostar a Aplicação Projeto Conexão do Saber
-- [ ]  Fazer kahoot Qualidade de Software completo valendo + 10XP para cada questão correta / -10XP para cada questão incorreta, Primeiro lugar + 300 XP, Segundo lugar +200 XP, Terceiro lugar +100 XP
