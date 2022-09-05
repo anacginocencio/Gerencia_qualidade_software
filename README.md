@@ -14,7 +14,7 @@
 ####  Atividade - Valendo pontuação N1 - Prazo Final 27/09/2022
 
 - [Atividade 1 - Qualidade](https://forms.gle/Fu6ft2caMTwu3AAC7)
-
+- [Atividade 2 - Técnicas de Revisão](https://forms.gle/d9YJpMsxQxq8bbnUA)
 
 ####  Atividade - Valendo pontuação N2
 
