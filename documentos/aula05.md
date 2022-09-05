@@ -1,7 +1,7 @@
-# Aula 05 - Gerência e Qualidade de Software
+# Gerência e Qualidade de Software
 ## Tema aula - Unidade I - Técnicas de Revisão - Parte II
  
->  *  Impacto de defeitos de software nos custos, amplificação e eliminação de defeitos, métricas de revisão e seu emprego
+>  *  Formalidade em técnicas de revisão; Revisão informal
 
 ## Atividades da aula - Discutir sobre as técnicas de revisões formais e informais
 
@@ -25,4 +25,4 @@
 - [ ]  Apresentar os indivíduos envolvidos em um processo de revisão formal
 - [ ]  Apresentar diretrizes de uma revisão formal
 - [ ]  Questão a ser desenvolvida como parte da N1
-- [ ]  Kahoot Técnicas de Revisão completo valendo + 20XP para cada questão correta / -10XP para cada questão incorreta, Primeiro lugar + 300 XP, Segundo lugar +200 XP, Terceiro lugar +100 XP
+- [ ]  Kahoot Técnicas de Revisão completo valendo + 20XP para cada questão correta, Primeiro lugar + 300 XP, Segundo lugar +200 XP, Terceiro lugar +100 XP
