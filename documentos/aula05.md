@@ -14,11 +14,8 @@
 ### Video aula gerência e qualidade de software -  Qualidade de Software - Parte III
 [![Aula - Técnicas de Revisão PARTE I](capa_aula5.png)](https://www.youtube.com/watch?v=xcxWOu9Qgo8)
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 30/11/2021
 
-- [Atividade](https://forms.gle/LKjuR9qPczqB9yLC6)
-
-### Desenvolvimento aula 05: 
+### Desenvolvimento aula: 
 
 - [ ]  Discutir sobre o aspecto de formalidade das técnicas de revisão
 - [ ]  Uma revisão informal, como programação em pares, pode revelar problemas e não deve ser descartado
