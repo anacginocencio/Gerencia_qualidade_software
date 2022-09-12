@@ -12,10 +12,10 @@
 - [Roteiro Aula09 - Melhoria de Processos  - Parte 1 - 04/10/2022](aula09.md)
 - [Roteiro Aula10 - Melhoria de Processos - Parte 2 - 11/10/2022](aula10.md)
 - [Roteiro Aula11 - 18/10/2022 - CONEPE](aula11.md)
-- [Roteiro Aula12 - 25/10/2022](aula12.md)
-- [Roteiro Aula13 - 01/11/2022](aula13.md)
-- [Roteiro Aula14 - 08/11/2022](aula14.md)
+- [Roteiro Aula12 - 25/10/2022 - CMMI - Parte 1](aula12.md)
+- [Roteiro Aula13 - 01/11/2022 - CMMI - Parte 2](aula13.md)
+- [Roteiro Aula14 - 08/11/2022 - MPS.BR](aula14.md)
 - [FERIADO 15/11/2022 - PROCLAMAÇÃO DA REPÚBLICA]
-- [Roteiro Aula15 - 22/11/2022](aula14.md)
+- [Roteiro Aula15 - 22/11/2022 - MPS.BR](aula14.md)
 - [Roteiro Aula16 - 29/11/2022 - AVALIAÇÃO]
 - [02/12/2022 - ENTREGA MÉDIA FINAL]
