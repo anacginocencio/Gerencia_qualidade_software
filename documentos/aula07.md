@@ -1,4 +1,4 @@
-# Aula 07 - Gerência e Qualidade de Software
+# Gerência e Qualidade de Software
 ## Tema aula - Unidade I - Garantia de Qualidade de Software - Parte II
  
 >  *  Metas e métricas de SQA, Estatísticas da garantia da qualidade de software, confiabilidade de software e plano de SQA
@@ -14,9 +14,6 @@
 ### Video aula gerência e qualidade de software -  Qualidade de Software - Parte III
 [![Aula - Garantia de Qualidade de Software - PARTE II](capa_aula7.png)](https://youtu.be/4BV5_r-ktTc)
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 15/12/2021
-
-- [Atividade](https://forms.gle/2yRrw3JZ2ikjXQ8YA)
 
 ### Desenvolvimento aula 07: 
 
@@ -27,6 +24,5 @@
 - [ ] Confiabilidade de software:  “a probabilidade de operação sem falhas de um programa de computador em um dado ambiente por um determinado tempo.”
 - [ ] Proteção de Software: examina as maneiras em que as falhas resultam em condições que podem levar a problemas.
 - [ ] O plano de SQA
-- [ ]  Kahoot Garantia de Qualidade de Software - Parte 2 valendo + 30XP para cada questão correta / -10XP para cada questão incorreta, Primeiro lugar + 500 XP, Segundo lugar +300 XP, Terceiro lugar +200 XP. Assíncrono no seguinte link:
-- [Link kahoot assíncrono](https://kahoot.it/challenge/04026898?challenge-id=dd701e52-7000-49c6-a9d2-33d726c8c00f_1638212114800)
-- Kahoot termina em: 12/12/2021 às 23h
+- [ ]  Kahoot Garantia de Qualidade de Software - Parte 2 valendo + 30XP para cada questão correta, Primeiro lugar + 500 XP, Segundo lugar +300 XP, Terceiro lugar +200 XP. Assíncrono no seguinte link:
+
