@@ -15,6 +15,7 @@
 
 - [Atividade 1 - Qualidade](https://forms.gle/Fu6ft2caMTwu3AAC7)
 - [Atividade 2 - Técnicas de Revisão](https://forms.gle/d9YJpMsxQxq8bbnUA)
+- [Atividade 3 - Garantia de qualidade de Sw](https://forms.gle/gzffGFMzNCsqBRWc9)
 
 ####  Atividade - Valendo pontuação N2
 
