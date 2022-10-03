@@ -23,4 +23,4 @@
 - [ ] O processo SPI
 - [ ] Avaliação no processo de SPI
 - [ ] GIMKIT PRESENCIAL
-- [ ] Avaliação gimkit
+- [Avaliação gimkit](https://forms.gle/eqLEy8zgE91fnVpQ9)
