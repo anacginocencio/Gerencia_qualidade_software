@@ -22,4 +22,5 @@
 - [ ] Níveis CMM
 - [ ] O processo SPI
 - [ ] Avaliação no processo de SPI
-- [ ] KAHOOT PRESENCIAL
+- [ ] GIMKIT PRESENCIAL
+- [ ] Avaliação gimkit
