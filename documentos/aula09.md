@@ -1,4 +1,4 @@
-# Aula 09 - Gerência e Qualidade de Software
+# Aula - Gerência e Qualidade de Software
 ## Tema aula - Unidade II - Melhoria de Processos de Software - Parte I
  
 >  *  O que é SPI (Software Process Improvement) e o processo de SPI.
