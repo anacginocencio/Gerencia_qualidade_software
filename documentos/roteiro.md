@@ -7,9 +7,9 @@
 - [Roteiro Aula06 - Garantia da Qualidade de Software - Parte 1 - 13/09/2022](aula06.md)
 - [Roteiro Aula07 - Garantia da Qualidade de Software - Parte 2 - 20/09/2022](aula07.md)
 - [Roteiro Aula08 - 27/08/2022 - AVALIAÇÃO](aula08.md)
-- [07/10/2022 - ENTREGA MÉDIA N1]
+- [08/10/2022 - DISPONIBILIZAÇÃO MÉDIA N1]
 ## Unidade II
-- [Roteiro Aula09 - Melhoria de Processos  - Parte 1 - 04/10/2022](aula09.md)
+- [Roteiro Aula09 - Melhoria de Processos  - Parte 1 e Discussão Avaliação - 04/10/2022](aula09.md)
 - [Roteiro Aula10 - Melhoria de Processos - Parte 2 - 11/10/2022](aula10.md)
 - [Roteiro Aula11 - 18/10/2022 - CONEPE](aula11.md)
 - [Roteiro Aula12 - 25/10/2022 - CMMI - Parte 1](aula12.md)
