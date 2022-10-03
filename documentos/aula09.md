@@ -22,4 +22,4 @@
 - [ ] Níveis CMM
 - [ ] O processo SPI
 - [ ] Avaliação no processo de SPI
-- [ ] KAHOOT SÍNCRONO
+- [ ] KAHOOT PRESENCIAL
