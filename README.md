@@ -17,7 +17,8 @@
 - [Atividade 2 - Técnicas de Revisão](https://forms.gle/d9YJpMsxQxq8bbnUA)
 - [Atividade 3 - Garantia de qualidade de Sw](https://forms.gle/gzffGFMzNCsqBRWc9)
 
-####  Atividade - Valendo pontuação N2
+####  Atividade - Valendo pontuação N2 - Prazo Final 28/11/2022
+- [Atividade 4 - Melhoria de Processos](https://forms.gle/WxHCFhUuhz5gm69k8)
 
 
 ####  CRONOGRAMA AVALIAÇÕES
