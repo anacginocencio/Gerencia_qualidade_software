@@ -23,4 +23,4 @@
 - [ ] Resistência a mudanças e persistência a mudanças
 - [ ] Retorno sobre investimento
 - [ ] Tendências de SPI
-- [ ] Questões AVA -[Atividade 4](https://forms.gle/5LJhVkxunzHPE4PU6)
+- [ ] Questões AVA -[Atividade 4](https://forms.gle/WxHCFhUuhz5gm69k8)
