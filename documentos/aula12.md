@@ -1,4 +1,4 @@
-# Aula 12 - Gerência e Qualidade de Software
+# Aula - Gerência e Qualidade de Software
 ## Tema aula - Unidade II - CMMI - Parte I
 >  *  Histórico, SW-CMM, Estrutura CMM, Evolução do CMM para o CMMI, Níveis SW-CMM
 
@@ -8,16 +8,13 @@
 
 ### Materiais
 
-- [Slides aula 12](aula12_unidadeII_cmmi_parte1.pdf)
+- [Slides aula ](aula12_unidadeII_cmmi_parte1.pdf)
 
 ### Video aula gerência e qualidade de software -  Melhoria de processos - Parte 1
 [![Aula - CMMI - PARTE 1](capa_aula12.png)](https://youtu.be/y24YYE0r7ZY)
 
-####  Atividade frequência para esta aula - Prazo 02/02/2022
 
-- [Atividade](https://forms.gle/QerZp5cEbgRPZ96j7)
-
-### Desenvolvimento aula 12: 
+### Desenvolvimento aula: 
 
 - [ ] Histórico CMM
 - [ ] Surgimento CMMI
