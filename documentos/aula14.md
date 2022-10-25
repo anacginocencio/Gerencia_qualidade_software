@@ -6,16 +6,15 @@
 
 
 ### Materiais
-
+- [Slides aula 13](aula13_unidadeII_cmmi_parte2.pdf)
 - [Slides aula 14](aula14_unidadeII_mpsbr.pdf)
 
-### Video aula gerência e qualidade de software -  MPS.BR
+### Video aulas Unidade II
+[![Aula - CMMI - PARTE 2](capa_aula13.png)](https://youtu.be/maiiHZ4Jpqc)
 [![Aula - MPS BR](capa_aula14.png)](https://youtu.be/8Pekd7bPsi8)
 
 
 ### Desenvolvimento aula: 
 
-- [ ] Motivação para a criação do MPS.BR
-- [ ] Histórico
-- [ ] Estrutura do MPS.BR
-- [ ] O Modelo de Referência (MR-MPS)
+- [ ] ClassCraft - Batalha Unidade II
+- [ ] Kahoot - CMMI 2.0
