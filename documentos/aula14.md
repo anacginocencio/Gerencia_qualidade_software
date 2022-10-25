@@ -6,10 +6,12 @@
 
 
 ### Materiais
+- [Slides aula 12 ](aula12_unidadeII_cmmi_parte1.pdf)
 - [Slides aula 13](aula13_unidadeII_cmmi_parte2.pdf)
 - [Slides aula 14](aula14_unidadeII_mpsbr.pdf)
 
 ### Video aulas Unidade II
+[![Aula - CMMI - PARTE 1](capa_aula12.png)](https://youtu.be/y24YYE0r7ZY)
 [![Aula - CMMI - PARTE 2](capa_aula13.png)](https://youtu.be/maiiHZ4Jpqc)
 [![Aula - MPS BR](capa_aula14.png)](https://youtu.be/8Pekd7bPsi8)
 
