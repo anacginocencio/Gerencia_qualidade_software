@@ -1,10 +1,9 @@
 # Aula - Gerência e Qualidade de Software
-## Tema aula - Unidade II - MPS.BR
->  *  MPS.BR
+## Tema aula - Unidade II - Melhoria de Processos, CMMI, MPS.BR
+>  *  Nesta aula utilizaremos ClassCraft e Kahoot para revisão de assuntos relacionados a Unidade II
 
-## Atividades da aula - Apresentar a estrutura do MPS.BR, motivação, histórico
+## Atividades da aula - Batalha ClasCraft - Melhoria de Processos e Mps.br
 
-## Instalação da Disciplina: Evolução do MPS.BR
 
 ### Materiais
 
