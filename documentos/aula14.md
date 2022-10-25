@@ -1,4 +1,4 @@
-# Aula 14 - Gerência e Qualidade de Software
+# Aula - Gerência e Qualidade de Software
 ## Tema aula - Unidade II - MPS.BR
 >  *  MPS.BR
 
@@ -13,11 +13,8 @@
 ### Video aula gerência e qualidade de software -  MPS.BR
 [![Aula - MPS BR](capa_aula14.png)](https://youtu.be/8Pekd7bPsi8)
 
-####  Atividade frequência para esta aula - Prazo 16/02/2022
 
-- [Atividade](https://forms.gle/yEfn3j9UC5sxuGPZ6)
-
-### Desenvolvimento aula 14: 
+### Desenvolvimento aula: 
 
 - [ ] Motivação para a criação do MPS.BR
 - [ ] Histórico
