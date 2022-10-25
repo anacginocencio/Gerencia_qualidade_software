@@ -2,7 +2,7 @@
 ## Tema aula - Unidade II - Melhoria de Processos, CMMI, MPS.BR
 >  *  Nesta aula utilizaremos ClassCraft e Kahoot para revisão de assuntos relacionados a Unidade II
 
-## Atividades da aula - Batalha ClasCraft - Melhoria de Processos e Mps.br
+## Atividades da aula - Batalha ClasCraft: Melhoria de Processos e Mps.br / KAHOOT CMMI 2.0
 
 
 ### Materiais
