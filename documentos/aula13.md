@@ -1,4 +1,4 @@
-# Aula 13 - Gerência e Qualidade de Software
+# Gerência e Qualidade de Software
 ## Tema aula - Unidade II - CMMI - Parte II
 >  *  CMMI Development 2.0
 
@@ -13,11 +13,8 @@
 ### Video aula gerência e qualidade de software -  CMMI - Parte 2
 [![Aula - CMMI - PARTE 2](capa_aula13.png)](https://youtu.be/maiiHZ4Jpqc)
 
-####  Atividade frequência para esta aula - Prazo 09/02/2022
 
-- [Atividade](https://forms.gle/xjktxFGn7uNzr2HS9)
-
-### Desenvolvimento aula 13: 
+### Desenvolvimento aula: 
 
 - [ ] Principais informações CMMI 2.0
 - [ ] Níveis CMMI 2.0
