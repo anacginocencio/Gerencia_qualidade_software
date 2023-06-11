@@ -4,7 +4,7 @@
 
 - [Aulas toda Terça-feira: 07H30 às 09h10]
 - [Local aula:] LEC 3 
-- [Plano de Ensino e Cronograma](documentos/plano_ensino_gerencia.pdf)
+- [Plano de Ensino e Cronograma](documentos/plano_ensino_gerencia_2023_1.pdf)
 - [Roteiro de aulas e materiais](documentos/roteiro.md)
 
 ##  INFORMAÇÕES AVALIAÇÕES
