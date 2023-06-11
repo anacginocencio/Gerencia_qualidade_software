@@ -2,32 +2,29 @@
 
 ## PLANEJAMENTO SEMESTRAL 
 
-- [Aulas toda Terça-feira: 13h30 às 15h10]
-- [Local aula:] Laboratório de Sistemas Digitais
-- [Link WhatsApp Disciplina:] 
-- [Link ClassCraft:] 
+- [Aulas toda Terça-feira: 07H30 às 09h10]
+- [Local aula:] LEC 3 
 - [Plano de Ensino e Cronograma](documentos/plano_ensino_gerencia.pdf)
 - [Roteiro de aulas e materiais](documentos/roteiro.md)
 
 ##  INFORMAÇÕES AVALIAÇÕES
+####  Atividade - Valendo pontuação N1 - Prazo Final 07/08/2023
 
-####  Atividade - Valendo pontuação N1 - Prazo Final 27/09/2022
+- [Atividade 1 - Qualidade](https://forms.gle/V5om71iBHgZ4QbWk7)
+- [Atividade 2 - Técnicas de Revisão](https://forms.gle/RbE4gpw6oChZhn1C6)
+- [Atividade 3 - Garantia de qualidade de Sw](https://forms.gle/rz7upsqropi1VZXY7)
 
-- [Atividade 1 - Qualidade](https://forms.gle/Fu6ft2caMTwu3AAC7)
-- [Atividade 2 - Técnicas de Revisão](https://forms.gle/d9YJpMsxQxq8bbnUA)
-- [Atividade 3 - Garantia de qualidade de Sw](https://forms.gle/gzffGFMzNCsqBRWc9)
-
-####  Atividade - Valendo pontuação N2 - Prazo Final 28/11/2022
-- [Atividade 4 - Melhoria de Processos](https://forms.gle/WxHCFhUuhz5gm69k8)
-- [Atividade 5 - CMM e CMMI](https://forms.gle/eVm3pJe5vyh2qX1q6)
+####  Atividade - Valendo pontuação N2 - Prazo Final 02/10/2023
+- [Atividade 4 - Melhoria de Processos](https://forms.gle/B3RdGxjgaaHxzgX96)
+- [Atividade 5 - CMM e CMMI](https://forms.gle/E1C4i5E81SRj8pNh7)
 
 
 ####  CRONOGRAMA AVALIAÇÕES
 
-- [**27/09/2022 - PRIMEIRA AVALIAÇÃO - CONTEÚDO UNIDADE I**]
+- [**08/08/2023 - PRIMEIRA AVALIAÇÃO - CONTEÚDO UNIDADE I**]
 * **FORMATO:** AVALIAÇÃO PRESENCIAL
-* **DATA:** 27/09/2022
-* **HORÁRIO:** 13h30 ÀS 15h10
+* **DATA:** 08/08/2023
+* **HORÁRIO:** 07h30 ÀS 09h10
 * **CONTEÚDO:** Unidade I
 1. Qualidade de Software, 
 2. Técnicas de Revisão, 
@@ -35,10 +32,10 @@
 * **OBSERVAÇÃO:** Esta avaliação vale 90% da N1
 
 
-- [**29/11/2022 - SEGUNDA AVALIAÇÃO - CONTEÚDO UNIDADE II**]
+- [**03/10/2023 - SEGUNDA AVALIAÇÃO - CONTEÚDO UNIDADE II**]
 * **FORMATO:** AVALIAÇÃO PRESENCIAL
-* **DATA:** 29/11/2022
-* **HORÁRIO:** 13h30 ÀS 15h10
+* **DATA:** 03/10/2023
+* **HORÁRIO:** 07h30 ÀS 09h10
 * **CONTEÚDO:** Unidade II
 1. Melhoria de processos de Software, 
 2. CMM e CMMI, 
