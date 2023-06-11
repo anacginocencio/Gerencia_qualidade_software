@@ -1,21 +1,15 @@
 ## Unidade I
-- [Roteiro Aula01 - Qualidade de Software - Parte 1 - 09/08/2022](aula01.md)
-- [Roteiro Aula02 - Qualidade de Software - Parte 2 - 16/08/2022](aula02.md)
-- [Roteiro Aula03 - Qualidade de Software - Parte 3 -  23/08/2022](aula03.md)
-- [Roteiro Aula04 - Técnicas de Revisão - Parte 1 - 30/08/2022](aula04.md)
-- [Roteiro Aula05 - Técnicas de Revisão - Parte 2 - 06/09/2022](aula05.md)
-- [Roteiro Aula06 - Garantia da Qualidade de Software - Parte 1 - 13/09/2022](aula06.md)
-- [Roteiro Aula07 - Garantia da Qualidade de Software - Parte 2 - 20/09/2022](aula07.md)
-- [Roteiro Aula08 - 27/08/2022 - AVALIAÇÃO](aula08.md)
-- [08/10/2022 - DISPONIBILIZAÇÃO MÉDIA N1]
+- [Qualidade de Software - Parte 1 ](aula01.md)
+- [Qualidade de Software - Parte 2 ](aula02.md)
+- [Qualidade de Software - Parte 3 ](aula03.md)
+- [Técnicas de Revisão - Parte 1 ](aula04.md)
+- [Técnicas de Revisão - Parte 2 ](aula05.md)
+- [Garantia da Qualidade de Software - Parte 1 ](aula06.md)
+- [Garantia da Qualidade de Software - Parte 2 ](aula07.md)
+
+
 ## Unidade II
-- [Roteiro Aula09 - Melhoria de Processos  - Parte 1  - 04/10/2022](aula09.md)
-- [Roteiro Aula10 - Melhoria de Processos - Parte 2 e Discussão Avaliação - 11/10/2022](aula10.md)
-- [Roteiro Aula11 - 18/10/2022 - CONEPE](aula11.md)
-- [Roteiro Aula12 - 25/10/2022 - CMMI - Parte 1](aula12.md)
-- [Roteiro Aula13 - 01/11/2022 - CMMI - Parte 2](aula13.md)
-- [Roteiro Aula14 - 08/11/2022 - MPS.BR](aula14.md)
-- [FERIADO 15/11/2022 - PROCLAMAÇÃO DA REPÚBLICA]
-- [Roteiro Aula15 - 22/11/2022 - Revisão Unidade II](aula15.md)
-- [Roteiro Aula16 - 29/11/2022 - AVALIAÇÃO]
-- [02/12/2022 - ENTREGA MÉDIA FINAL]
+- [Melhoria de Processos  - Parte 1 ](aula09.md)
+- [CMMI - Parte 1](aula12.md)
+- [CMMI - Parte 2](aula13.md)
+- [MPS.BR](aula14.md)
