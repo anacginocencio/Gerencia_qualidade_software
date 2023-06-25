@@ -21,9 +21,9 @@
 
 ####  CRONOGRAMA AVALIAÇÕES
 
-- [**08/08/2023 - PRIMEIRA AVALIAÇÃO - CONTEÚDO UNIDADE I**]
+- [**11/07/2023 - PRIMEIRA AVALIAÇÃO - CONTEÚDO UNIDADE I**]
 * **FORMATO:** AVALIAÇÃO PRESENCIAL
-* **DATA:** 08/08/2023
+* **DATA:** 11/07/2023
 * **HORÁRIO:** 07h30 ÀS 09h10
 * **CONTEÚDO:** Unidade I
 1. Qualidade de Software, 
@@ -32,9 +32,9 @@
 * **OBSERVAÇÃO:** Esta avaliação vale 90% da N1
 
 
-- [**03/10/2023 - SEGUNDA AVALIAÇÃO - CONTEÚDO UNIDADE II**]
+- [**19/09/2023 - SEGUNDA AVALIAÇÃO - CONTEÚDO UNIDADE II**]
 * **FORMATO:** AVALIAÇÃO PRESENCIAL
-* **DATA:** 03/10/2023
+* **DATA:** 19/09/2023
 * **HORÁRIO:** 07h30 ÀS 09h10
 * **CONTEÚDO:** Unidade II
 1. Melhoria de processos de Software, 
