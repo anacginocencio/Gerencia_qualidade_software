@@ -9,7 +9,7 @@
 
 ### Materiais
 - [Plano de Ensino](plano_ensino_remoto_gerencia_2021_1_assinado.pdf)
-- [Slides aula 01](documentos/aula2_UnidadeI_Qualidade_sw_parteII.pdf)
+- [Slides aula 01](aula2_UnidadeI_Qualidade_sw_parteII.pdf)
 - [Mercado Brasileiro de Software](mercado_brasileiro_sw_2021.pdf)
 
 ### Videos aulas gerência e qualidade de software -  Qualidade de Software - Parte I
