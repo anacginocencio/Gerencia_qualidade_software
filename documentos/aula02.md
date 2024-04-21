@@ -9,7 +9,7 @@
 
 ### Materiais
 
-- [Slides aula 01](/aula2_UnidadeI_Qualidade_sw_parteII.pdf)
+- [Slides aula 01](aula2_UnidadeI_Qualidade_sw_parteII.pdf)
 
 ### Videos aulas gerência e qualidade de software -  Qualidade de Software - Parte I
 [![Aula - Qualidade de Software PARTE II](capa_aula2.png)](https://www.youtube.com/watch?v=JVZOHZocdqo)
