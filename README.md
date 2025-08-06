@@ -1,23 +1,9 @@
 # Gerência e Qualidade de Software - Curso de Ciência da Computação - UFJ
 
-## PLANEJAMENTO SEMESTRAL 
-
-- [Aulas toda Terça-feira: 07H30 às 09h10]
-- [Local aula:] LEC 3 
 - [Plano de Ensino e Cronograma](documentos/plano_ensino_gerencia_2023_1.pdf)
 - [Roteiro de aulas e materiais](documentos/roteiro.md)
 
 ##  INFORMAÇÕES AVALIAÇÕES
-####  Atividade - Valendo pontuação N1 - Prazo Final 07/08/2023
-
-- [Atividade 1 - Qualidade](https://forms.gle/V5om71iBHgZ4QbWk7)
-- [Atividade 2 - Técnicas de Revisão](https://forms.gle/RbE4gpw6oChZhn1C6)
-- [Atividade 3 - Garantia de qualidade de Sw](https://forms.gle/rz7upsqropi1VZXY7)
-
-####  Atividade - Valendo pontuação N2 - Prazo Final 02/10/2023
-- [Atividade 4 - Melhoria de Processos](https://forms.gle/B3RdGxjgaaHxzgX96)
-- [Atividade 5 - CMM e CMMI](https://forms.gle/E1C4i5E81SRj8pNh7)
-
 
 ####  CRONOGRAMA AVALIAÇÕES
 
