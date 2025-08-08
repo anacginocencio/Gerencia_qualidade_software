@@ -8,7 +8,6 @@
 ## Instalação da Disciplina
 
 ### Materiais
-- [Plano de Ensino](plano_ensino_remoto_gerencia_2021_1_assinado.pdf)
 - [Slides aula 01](aula2_UnidadeI_Qualidade_sw_parteII.pdf)
 - [Mercado Brasileiro de Software](mercado_brasileiro_sw_2021.pdf)
 
