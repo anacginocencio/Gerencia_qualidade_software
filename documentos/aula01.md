@@ -8,8 +8,8 @@
 ## Instalação da Disciplina
 
 ### Materiais
-- [Slides aula 01](aula2_UnidadeI_Qualidade_sw_parteII.pdf)
-- [Mercado Brasileiro de Software](mercado_brasileiro_sw_2021.pdf)
+- [Anotações Aula](Aula1_Qualidade_Software_ParteI.pdf)
+
 
 ### Videos aulas gerência e qualidade de software -  Qualidade de Software - Parte I
 [![Aula - Qualidade de Software PARTE I](capa_aula1.png)](https://www.youtube.com/watch?v=WvBiQnRSKbw)
