@@ -9,7 +9,7 @@
 
 ### Materiais
 
-- [Slides aula 03](aula3_UnidadeI_Qualidade_sw_parteIII.pdf)
+- [Slides aula 03](Aula3_Dimensoes_Qualidade_TecnicasRevisao.pdf)
 
 ### Video aula gerência e qualidade de software -  Qualidade de Software - Parte III
 [![Aula - Qualidade de Software PARTE III](capa_aula3.png)](https://www.youtube.com/watch?v=NXGIDkKnle0)
