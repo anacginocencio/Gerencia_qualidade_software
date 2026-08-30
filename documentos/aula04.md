@@ -1,23 +1,23 @@
 # Gerência e Qualidade de Software
-## Tema aula - Unidade I - Técnicas de Revisão - Parte I
+## Tema aula - Unidade I - Técnicas de Revisão - Parte II
  
->  *  Impacto de defeitos de software nos custos, amplificação e eliminação de defeitos, métricas de revisão e seu emprego
+>  *  Formalidade em técnicas de revisão; Revisão informal
 
-## Atividades da aula - Discutir sobre a importância das técnicas de revisão como um filtro para eliminação de defeitos
+## Atividades da aula - Discutir sobre as técnicas de revisões formais e informais
 
-## Instalação da Disciplina
 
 ### Materiais
 
-- [Slides aula 04](aula4_UnidadeI_Tecnicas_de_revisao_parteI.pdf)
+- [Slides aula 04](Aula4_TecnicasRevisao_ParteII.pdf)
 
-### Video aula gerência e qualidade de software -  Técnicas de Revisão - Parte I
-[![Aula - Técnicas de Revisão PARTE I](capa_aula4.png)](https://www.youtube.com/watch?v=ffX0jRr0AVY)
+### Video aula gerência e qualidade de software -  Qualidade de Software - Parte III
+[![Aula - Técnicas de Revisão PARTE I](capa_aula5.png)](https://www.youtube.com/watch?v=xcxWOu9Qgo8)
 
 
-### Desenvolvimento aula 04: 
+### Desenvolvimento aula: 
 
-- [ ]  Discutir sobre a importância das técnicas de revisão como um filtro para eliminação de defeitos
-- [ ]  Apresentar o Exemplo de amplificação de defeitos sem o emprego de revisão e com o emprego de revisão
-- [ ]  Apresentar as métricas de revisão Ep (esforço de preparação), Ea (Esforco de Avaliação) , Re (Reformulação de Esforço) e também TAS (Tamanho do Artefato de Software),  Errsec(Erros secundários) e Errgraves (Erros graves) 
-- [ ]  Mostar a Aplicação Projeto Conexão do Saber
+- [ ]  Discutir sobre o aspecto de formalidade das técnicas de revisão
+- [ ]  Uma revisão informal, como programação em pares, pode revelar problemas e não deve ser descartado
+- [ ]  Apresentar os indivíduos envolvidos em um processo de revisão formal
+- [ ]  Apresentar diretrizes de uma revisão formal
+- [ ]  kahoot
