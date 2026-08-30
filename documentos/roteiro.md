@@ -1,7 +1,7 @@
 ## Unidade I
 - [Qualidade de Software - Parte 1 ](aula01.md)
 - [Qualidade de Software - Parte 2 ](aula02.md)
-- [Qualidade de Software - Parte 3 ](aula03.md)
+- [Dimensões da Qualidade e Técnicas de Revisão parte I ](aula03.md)
 - [Técnicas de Revisão - Parte 1 ](aula04.md)
   <!--
 - [Técnicas de Revisão - Parte 2 ](aula05.md)
