@@ -1,27 +1,16 @@
 # Gerência e Qualidade de Software
-## Tema aula - Unidade I - Garantia de Qualidade de Software - Parte I
+## Tema aula - Garantia de Qualidade de Software - Parte I
  
->  *  Elementos da garantia de qualidade de software, tarefas SQA ( Software Quality Assurance)
-
-## Atividades da aula - Introdução a Garantia de Qualidade de Software, etapas envolvidas, padrões, diferença entre revisões e auditorias, tarefas da SQA
-## Instalação da Disciplina
 
 ### Materiais
 
-- [Slides aula 06](aula6_unidadeI_garantia_de_qualidade_de_software_parteI.pdf)
+- [Notas de Aula](Aula6_GarantiaQualidadeSoftware_ParteII.pdf)
 
-### Video aula gerência e qualidade de software -  Qualidade de Software - Parte III
-[![Aula - Garantia de Qualidade de Software - PARTE I](capa_aula6.png)](https://youtu.be/8W8AliDhNOI)
+### Desenvolvimento aula: 
 
-
-### Desenvolvimento aula 06: 
-
-- [ ]  Discutir sobre garantia de qualidade de software
-- [ ]  O que é, Etapas envolvidas, Por que é importante, Qual é o artefato, Como garantir que o trabalho foi realizado corretamente, Quem realiza
-- [ ]  Elementos da garantia de qualidade: Coleta e análise de erros; Gerenciamento de mudanças; educação; Gerência dos fornecedores; 
-Administração da segurança; Proteção; Administração de riscos
-- [ ]  Tarefas da SQA: Preparar um plano de SQA, Participar no desenvolvimento da descrição de qualidade do projeto; Revisar as atividades de engenharia de 
-software para verificar sua conformidade com a gestão de qualidade definida; Auditar produtos de software; Garantir que os desvios sejam documentados e tratados;
-Registrar qualquer não aderência e relatar ao gerenciamento superior.
-- [ ]  Técnica POMODORO para melhor gerência de tempo.
-- [ ]  Kahoot Garantia de Qualidade de Software - Parte 1 valendo + 30XP para cada questão correta, Primeiro lugar + 500 XP, Segundo lugar +300 XP, Terceiro lugar +200 XP. 
+- [ ]  Metas, atributos e métricas de SQA
+- [ ]  Estatísticas da Grantia da Qualidade de Software
+- [ ]  Confiabilidade de Software
+- [ ]  O Plano de SQA
+- [ ]  SQA na prática moderna - SRE, SLO e Error Budgets
+- [ ]  Kahoot valendo nota
