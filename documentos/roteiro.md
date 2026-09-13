@@ -3,11 +3,9 @@
 - [Qualidade de Software - Parte 2 ](aula02.md)
 - [Dimensões da Qualidade e Técnicas de Revisão parte I ](aula03.md)
 - [Técnicas de Revisão - Parte 1 ](aula04.md)
-  <!--
-- [Técnicas de Revisão - Parte 2 ](aula05.md)
-- [Garantia da Qualidade de Software - Parte 1 ](aula06.md)
-- [Garantia da Qualidade de Software - Parte 2 ](aula07.md)
-
+- [Garantia da Qualidade de Software - Parte 1 ](aula05.md)
+- [Garantia da Qualidade de Software - Parte 2 ](aula06.md)
+<!--
 
 ## Unidade II
 - [Melhoria de Processos  - Parte 1 ](aula09.md)
