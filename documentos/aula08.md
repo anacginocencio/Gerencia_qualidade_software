@@ -1,17 +1,16 @@
-# Aula 08 - Gerência e Qualidade de Software
-## Tema aula - PRIMEIRA AVALIAÇÃO
+# Gerência e Qualidade de Software
+## Tema aula - Normas de Qualidade e Processo de Software
  
-### FORMATO: AVALIAÇÃO VIRTUAL SÍNCRONA
-- DATA: 15/12/2021
-- HORÁRIO: 17h10 ÀS 18h50
-### CONTEÚDO: 
-- Unidade 1: Qualidade de Software, 
-- Unidade 1: Técnicas de Revisão, 
-- Unidade 1: Garantia de Qualidade de Software
-### OBSERVAÇÃO: Esta avaliação vale 90% da N1
 
-### Desenvolvimento aula 08: 
+### Materiais
 
-- [ ]  Liberar link da avaliação às 17h10
-- [ ]  Fechar link da avaliação às 18h50
-- [ ]  Link da avaliação
+- [Notas de Aula](Aula9_ISO25010_ISO12207_FINAL.pdf)
+
+### Desenvolvimento aula: 
+
+- [ ]  Por que normas internacionais de qualidade e processo
+- [ ]  ISO/IEC 25010 (SQuaRE): a família de normas de qualidade
+- [ ]  Modelo de qualidade do Produto - as 9 características
+- [ ]  Modelo de qualiade em uso - as 5 características
+- [ ]  ISO/IEC 12207 - processos de ciclo de vida de software
+- [ ]  QG - Kahoot
