@@ -5,11 +5,8 @@
 - [Técnicas de Revisão - Parte 1 ](aula04.md)
 - [Garantia da Qualidade de Software - Parte 1 ](aula05.md)
 - [Garantia da Qualidade de Software - Parte 2 ](aula06.md)
-<!--
+
 
 ## Unidade II
-- [Melhoria de Processos  - Parte 1 ](aula09.md)
-- [CMMI - Parte 1](aula12.md)
-- [CMMI - Parte 2](aula13.md)
-- [MPS.BR](aula14.md)
--->
+- [Melhoria de Processos ](aula07.md)
+- [Normas de Qualidade e Processo de Software ](aula08.md)
