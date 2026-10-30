@@ -3,7 +3,7 @@
 
 ### Materiais
 
-- [Notas de Aula](Aula11_CMMI_II_EstruturaEAgil.pdf)
+- [Notas de Aula](Aula11_CMMI_PARTEII.pdf)
 
 ### Desenvolvimento aula: 
 
